@@ -1,0 +1,6 @@
+age,hypertension,heart_disease,ever_married,avg_glucose_level,smoking_status
+81,No,No,Yes,81.95,'never smoked'
+60,Yes,No,Yes,213.03,smokes
+79,No,No,Yes,79.03,Unknown
+34,No,No,No,92.4,'never smoked'
+45,No,No,Yes,101.3,smokes
